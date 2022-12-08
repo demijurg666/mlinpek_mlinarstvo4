@@ -30,7 +30,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
-CSRF_TRUSTED_ORIGINS = ['https://web-production-bf4f.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://mlinpek-mlinarstvo.up.railway.app']
 
 
 
